@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\RepositoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\RepositoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\RepositoryDesignPattern.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\RepositoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\bin\Debug\net8.0\RepositoryDesignPattern.exe
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\bin\Debug\net8.0\RepositoryDesignPattern.deps.json
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\bin\Debug\net8.0\RepositoryDesignPattern.runtimeconfig.json
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\bin\Debug\net8.0\RepositoryDesignPattern.dll
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\bin\Debug\net8.0\RepositoryDesignPattern.pdb
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\RepositoryDesignPattern.dll
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\refint\RepositoryDesignPattern.dll
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\RepositoryDesignPattern.pdb
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\RepositoryDesignPattern.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\RepositoryDesignPattern\RepositoryDesignPattern\obj\Debug\net8.0\ref\RepositoryDesignPattern.dll
